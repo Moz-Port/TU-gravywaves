@@ -1,2 +1,2 @@
 # TU-gravywaves
-Code to create images of the gravitational waves to be 3d printed.  
+Code to create images showing gravitational-wave emission for 3d printing.  
